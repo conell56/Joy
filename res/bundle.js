@@ -129,11 +129,11 @@
 	    return;
 	  }
 	
-	  __REACT_HOT_LOADER__.register(sagaMiddleware, 'sagaMiddleware', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/index.js');
+	  __REACT_HOT_LOADER__.register(sagaMiddleware, 'sagaMiddleware', '/Users/conell/Documents/GitHub/Joy/src/index.js');
 	
-	  __REACT_HOT_LOADER__.register(store, 'store', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/index.js');
+	  __REACT_HOT_LOADER__.register(store, 'store', '/Users/conell/Documents/GitHub/Joy/src/index.js');
 	
-	  __REACT_HOT_LOADER__.register(routes, 'routes', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/index.js');
+	  __REACT_HOT_LOADER__.register(routes, 'routes', '/Users/conell/Documents/GitHub/Joy/src/index.js');
 	}();
 
 	;
@@ -36230,9 +36230,9 @@
 			return;
 		}
 	
-		__REACT_HOT_LOADER__.register(INITIAL_STATE, 'INITIAL_STATE', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/reducer.js');
+		__REACT_HOT_LOADER__.register(INITIAL_STATE, 'INITIAL_STATE', '/Users/conell/Documents/GitHub/Joy/src/reducer.js');
 	
-		__REACT_HOT_LOADER__.register(_default, 'default', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/reducer.js');
+		__REACT_HOT_LOADER__.register(_default, 'default', '/Users/conell/Documents/GitHub/Joy/src/reducer.js');
 	}();
 
 	;
@@ -44145,27 +44145,27 @@
 	    return;
 	  }
 	
-	  __REACT_HOT_LOADER__.register(FILESTACK_URL, 'FILESTACK_URL', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/sagas.js');
+	  __REACT_HOT_LOADER__.register(FILESTACK_URL, 'FILESTACK_URL', '/Users/conell/Documents/GitHub/Joy/src/sagas.js');
 	
-	  __REACT_HOT_LOADER__.register(getFromServer, 'getFromServer', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/sagas.js');
+	  __REACT_HOT_LOADER__.register(getFromServer, 'getFromServer', '/Users/conell/Documents/GitHub/Joy/src/sagas.js');
 	
-	  __REACT_HOT_LOADER__.register(postToServer, 'postToServer', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/sagas.js');
+	  __REACT_HOT_LOADER__.register(postToServer, 'postToServer', '/Users/conell/Documents/GitHub/Joy/src/sagas.js');
 	
-	  __REACT_HOT_LOADER__.register(pick, 'pick', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/sagas.js');
+	  __REACT_HOT_LOADER__.register(pick, 'pick', '/Users/conell/Documents/GitHub/Joy/src/sagas.js');
 	
-	  __REACT_HOT_LOADER__.register(loadImages, 'loadImages', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/sagas.js');
+	  __REACT_HOT_LOADER__.register(loadImages, 'loadImages', '/Users/conell/Documents/GitHub/Joy/src/sagas.js');
 	
-	  __REACT_HOT_LOADER__.register(postImage, 'postImage', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/sagas.js');
+	  __REACT_HOT_LOADER__.register(postImage, 'postImage', '/Users/conell/Documents/GitHub/Joy/src/sagas.js');
 	
-	  __REACT_HOT_LOADER__.register(uploadImage, 'uploadImage', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/sagas.js');
+	  __REACT_HOT_LOADER__.register(uploadImage, 'uploadImage', '/Users/conell/Documents/GitHub/Joy/src/sagas.js');
 	
-	  __REACT_HOT_LOADER__.register(watchGetImages, 'watchGetImages', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/sagas.js');
+	  __REACT_HOT_LOADER__.register(watchGetImages, 'watchGetImages', '/Users/conell/Documents/GitHub/Joy/src/sagas.js');
 	
-	  __REACT_HOT_LOADER__.register(watchPostImage, 'watchPostImage', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/sagas.js');
+	  __REACT_HOT_LOADER__.register(watchPostImage, 'watchPostImage', '/Users/conell/Documents/GitHub/Joy/src/sagas.js');
 	
-	  __REACT_HOT_LOADER__.register(watchFilestack, 'watchFilestack', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/sagas.js');
+	  __REACT_HOT_LOADER__.register(watchFilestack, 'watchFilestack', '/Users/conell/Documents/GitHub/Joy/src/sagas.js');
 	
-	  __REACT_HOT_LOADER__.register(rootSaga, 'rootSaga', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/sagas.js');
+	  __REACT_HOT_LOADER__.register(rootSaga, 'rootSaga', '/Users/conell/Documents/GitHub/Joy/src/sagas.js');
 	}();
 
 	;
@@ -44295,9 +44295,9 @@
 			return;
 		}
 	
-		__REACT_HOT_LOADER__.register(Layout, 'Layout', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/components/layout.jsx');
+		__REACT_HOT_LOADER__.register(Layout, 'Layout', '/Users/conell/Documents/GitHub/Joy/src/components/layout.jsx');
 	
-		__REACT_HOT_LOADER__.register(_default, 'default', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/components/layout.jsx');
+		__REACT_HOT_LOADER__.register(_default, 'default', '/Users/conell/Documents/GitHub/Joy/src/components/layout.jsx');
 	}();
 
 	;
@@ -44395,13 +44395,13 @@
 			return;
 		}
 	
-		__REACT_HOT_LOADER__.register(Home, 'Home', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/components/home.jsx');
+		__REACT_HOT_LOADER__.register(Home, 'Home', '/Users/conell/Documents/GitHub/Joy/src/components/home.jsx');
 	
-		__REACT_HOT_LOADER__.register(mapStateToProps, 'mapStateToProps', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/components/home.jsx');
+		__REACT_HOT_LOADER__.register(mapStateToProps, 'mapStateToProps', '/Users/conell/Documents/GitHub/Joy/src/components/home.jsx');
 	
-		__REACT_HOT_LOADER__.register(mapDispatchToProps, 'mapDispatchToProps', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/components/home.jsx');
+		__REACT_HOT_LOADER__.register(mapDispatchToProps, 'mapDispatchToProps', '/Users/conell/Documents/GitHub/Joy/src/components/home.jsx');
 	
-		__REACT_HOT_LOADER__.register(HomeContainer, 'HomeContainer', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/components/home.jsx');
+		__REACT_HOT_LOADER__.register(HomeContainer, 'HomeContainer', '/Users/conell/Documents/GitHub/Joy/src/components/home.jsx');
 	}();
 
 	;
@@ -44534,9 +44534,9 @@
 	    return;
 	  }
 	
-	  __REACT_HOT_LOADER__.register(ProfileHeader, "ProfileHeader", "/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/components/profile-header.jsx");
+	  __REACT_HOT_LOADER__.register(ProfileHeader, "ProfileHeader", "/Users/conell/Documents/GitHub/Joy/src/components/profile-header.jsx");
 	
-	  __REACT_HOT_LOADER__.register(_default, "default", "/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/components/profile-header.jsx");
+	  __REACT_HOT_LOADER__.register(_default, "default", "/Users/conell/Documents/GitHub/Joy/src/components/profile-header.jsx");
 	}();
 
 	;
@@ -44607,9 +44607,9 @@
 			return;
 		}
 	
-		__REACT_HOT_LOADER__.register(ImageContainer, 'ImageContainer', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/components/image-container.jsx');
+		__REACT_HOT_LOADER__.register(ImageContainer, 'ImageContainer', '/Users/conell/Documents/GitHub/Joy/src/components/image-container.jsx');
 	
-		__REACT_HOT_LOADER__.register(_default, 'default', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/components/image-container.jsx');
+		__REACT_HOT_LOADER__.register(_default, 'default', '/Users/conell/Documents/GitHub/Joy/src/components/image-container.jsx');
 	}();
 
 	;
@@ -44680,9 +44680,9 @@
 			return;
 		}
 	
-		__REACT_HOT_LOADER__.register(Image, 'Image', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/components/image.jsx');
+		__REACT_HOT_LOADER__.register(Image, 'Image', '/Users/conell/Documents/GitHub/Joy/src/components/image.jsx');
 	
-		__REACT_HOT_LOADER__.register(_default, 'default', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/components/image.jsx');
+		__REACT_HOT_LOADER__.register(_default, 'default', '/Users/conell/Documents/GitHub/Joy/src/components/image.jsx');
 	}();
 
 	;
@@ -44747,9 +44747,9 @@
 			return;
 		}
 	
-		__REACT_HOT_LOADER__.register(Spinner, "Spinner", "/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/components/spinner.jsx");
+		__REACT_HOT_LOADER__.register(Spinner, "Spinner", "/Users/conell/Documents/GitHub/Joy/src/components/spinner.jsx");
 	
-		__REACT_HOT_LOADER__.register(_default, "default", "/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/components/spinner.jsx");
+		__REACT_HOT_LOADER__.register(_default, "default", "/Users/conell/Documents/GitHub/Joy/src/components/spinner.jsx");
 	}();
 
 	;
@@ -44798,13 +44798,13 @@
 			return;
 		}
 	
-		__REACT_HOT_LOADER__.register(getImages, 'getImages', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/action-creators.js');
+		__REACT_HOT_LOADER__.register(getImages, 'getImages', '/Users/conell/Documents/GitHub/Joy/src/action-creators.js');
 	
-		__REACT_HOT_LOADER__.register(uploadImage, 'uploadImage', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/action-creators.js');
+		__REACT_HOT_LOADER__.register(uploadImage, 'uploadImage', '/Users/conell/Documents/GitHub/Joy/src/action-creators.js');
 	
-		__REACT_HOT_LOADER__.register(postImage, 'postImage', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/action-creators.js');
+		__REACT_HOT_LOADER__.register(postImage, 'postImage', '/Users/conell/Documents/GitHub/Joy/src/action-creators.js');
 	
-		__REACT_HOT_LOADER__.register(setFilters, 'setFilters', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/action-creators.js');
+		__REACT_HOT_LOADER__.register(setFilters, 'setFilters', '/Users/conell/Documents/GitHub/Joy/src/action-creators.js');
 	}();
 
 	;
@@ -44908,13 +44908,13 @@
 			return;
 		}
 	
-		__REACT_HOT_LOADER__.register(Detail, 'Detail', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/components/detail.jsx');
+		__REACT_HOT_LOADER__.register(Detail, 'Detail', '/Users/conell/Documents/GitHub/Joy/src/components/detail.jsx');
 	
-		__REACT_HOT_LOADER__.register(mapStateToProps, 'mapStateToProps', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/components/detail.jsx');
+		__REACT_HOT_LOADER__.register(mapStateToProps, 'mapStateToProps', '/Users/conell/Documents/GitHub/Joy/src/components/detail.jsx');
 	
-		__REACT_HOT_LOADER__.register(mapDispatchToProps, 'mapDispatchToProps', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/components/detail.jsx');
+		__REACT_HOT_LOADER__.register(mapDispatchToProps, 'mapDispatchToProps', '/Users/conell/Documents/GitHub/Joy/src/components/detail.jsx');
 	
-		__REACT_HOT_LOADER__.register(DetailContainer, 'DetailContainer', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/components/detail.jsx');
+		__REACT_HOT_LOADER__.register(DetailContainer, 'DetailContainer', '/Users/conell/Documents/GitHub/Joy/src/components/detail.jsx');
 	}();
 
 	;
@@ -45179,13 +45179,13 @@
 			return;
 		}
 	
-		__REACT_HOT_LOADER__.register(Add, 'Add', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/components/add.jsx');
+		__REACT_HOT_LOADER__.register(Add, 'Add', '/Users/conell/Documents/GitHub/Joy/src/components/add.jsx');
 	
-		__REACT_HOT_LOADER__.register(mapStateToProps, 'mapStateToProps', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/components/add.jsx');
+		__REACT_HOT_LOADER__.register(mapStateToProps, 'mapStateToProps', '/Users/conell/Documents/GitHub/Joy/src/components/add.jsx');
 	
-		__REACT_HOT_LOADER__.register(mapDispatchToProps, 'mapDispatchToProps', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/components/add.jsx');
+		__REACT_HOT_LOADER__.register(mapDispatchToProps, 'mapDispatchToProps', '/Users/conell/Documents/GitHub/Joy/src/components/add.jsx');
 	
-		__REACT_HOT_LOADER__.register(AddContainer, 'AddContainer', '/Users/conell/Documents/GitHub/WORKINGjoy_coding_challenge01/src/components/add.jsx');
+		__REACT_HOT_LOADER__.register(AddContainer, 'AddContainer', '/Users/conell/Documents/GitHub/Joy/src/components/add.jsx');
 	}();
 
 	;
